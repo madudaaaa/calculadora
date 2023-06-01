@@ -7,6 +7,6 @@ projeto de uma calculadora binária, hexadecimal e decimal
 
 ### como clonar o repositorio
 
-...
+```
 git clone https://github.com/madudaaaa/calculadora.git
-...
+```
