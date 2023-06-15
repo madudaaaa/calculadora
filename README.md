@@ -39,9 +39,9 @@ exemplo de lista
 
  #### caixas de check
 
- -[x]fazer a tela de login
- -[ ]criar a tela de calculo
- -[ ]criar a tela de historico
+ - [x] fazer a tela de login
+ - [ ] criar a tela de calculo
+ - [ ] criar a tela de historico
 
 #### tabelas
 
